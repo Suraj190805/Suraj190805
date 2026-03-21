@@ -10,19 +10,19 @@
 
 ## 🛠️ Tech Stack
 
-💻 Languages
+💻 Languages : 
 Java • JavaScript • Python
 
-🌐 Frontend
+🌐 Frontend : 
 HTML • CSS • JavaScript • React
 
-⚙️ Backend
+⚙️ Backend : 
 Node.js • REST APIs
 
-🗄️ Database
+🗄️ Database : 
 MongoDB • MySQL
 
-w🛠️ Tools
+🛠️ Tools : 
 Git • GitHub • Postman • AntiGravity • VS Code
 
 ---
@@ -35,15 +35,6 @@ Git • GitHub • Postman • AntiGravity • VS Code
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Suraj190805&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Streak
-![Streak](https://streak-stats.demolab.com/?user=Suraj190805&theme=tokyonight)
-
----
 
 ## 🌐 Connect with me
 - LinkedIn: https://www.linkedin.com/in/suraj-s-77ss77
