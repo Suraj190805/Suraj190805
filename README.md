@@ -38,3 +38,4 @@ Git • GitHub • Postman • AntiGravity • VS Code
 
 ## 🌐 Connect with me
 - LinkedIn: https://www.linkedin.com/in/suraj-s-77ss77
+- Email : surajsatish33@gmail.com
