@@ -1,26 +1,37 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+Developer;Problem+Solver)
 # Hi 👋, I'm Suraj
 
-🚀 Full Stack Developer  
 🎓 Student  
-💻 Passionate about building real-world projects  
+🚀 Full Stack Developer  
+🤖 AI and Ml Enthusiast 
+💻 Passionate about building real-world projects 
 
 ---
 
 ## 🛠️ Tech Stack
-- Java
-- SQL
-- HTML, CSS, JavaScript
-- Git & GitHub
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
----
 
+💻 Languages
+Java • JavaScript • Python
+
+🌐 Frontend
+HTML • CSS • JavaScript • React
+
+⚙️ Backend
+Node.js • REST APIs
+
+🗄️ Database
+MongoDB • MySQL
+
+w🛠️ Tools
+Git • GitHub • Postman • AntiGravity • VS Code
+
+---
 ## 📂 Projects
-- 🔹 Canteen Management System (SQL-based)
-- 🔹 Student Attendance System (Java)
-- 🔹 Weather App (Live data)
+- 🔹 Kowledge Decay Tracker 
+- 🔹 Global Crisis Detection System
+- 🔹 Alerto - IoT Accident Detection & Emergency Alert System
+- 🔹 Shesafe - IoT based women safety device
+- 🔹 Virtual Steering Wheel using OpenCV
 
 ---
 
@@ -35,4 +46,4 @@
 ---
 
 ## 🌐 Connect with me
-- LinkedIn: (add later)
+- LinkedIn: https://www.linkedin.com/in/suraj-s-77ss77
