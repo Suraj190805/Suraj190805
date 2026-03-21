@@ -3,7 +3,7 @@
 
 🎓 Student  
 🚀 Full Stack Developer  
-🤖 AI and Ml Enthusiast 
+🤖 AI and Ml Enthusiast
 💻 Passionate about building real-world projects 
 
 ---
