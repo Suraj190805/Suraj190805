@@ -1,16 +1,38 @@
-## Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+Developer;Problem+Solver)
+# Hi 👋, I'm Suraj
 
-<!--
-**Suraj190805/Suraj190805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer  
+🎓 Student  
+💻 Passionate about building real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Java
+- SQL
+- HTML, CSS, JavaScript
+- Git & GitHub
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+---
+
+## 📂 Projects
+- 🔹 Canteen Management System (SQL-based)
+- 🔹 Student Attendance System (Java)
+- 🔹 Weather App (Live data)
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Suraj190805&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Streak
+![Streak](https://streak-stats.demolab.com/?user=Suraj190805&theme=tokyonight)
+
+---
+
+## 🌐 Connect with me
+- LinkedIn: (add later)
