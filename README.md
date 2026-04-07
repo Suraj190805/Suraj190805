@@ -27,11 +27,11 @@ Git • GitHub • Postman • AntiGravity • VS Code
 
 ---
 ## 📂 Projects
-- 🔹 Kowledge Decay Tracker 
-- 🔹 Global Crisis Detection System
-- 🔹 Alerto - IoT Accident Detection & Emergency Alert System
-- 🔹 Shesafe - IoT based women safety device
-- 🔹 Virtual Steering Wheel using OpenCV
+ 🔹 Kowledge Decay Tracker 
+ 🔹 Global Crisis Detection System
+ 🔹 Alerto - IoT Accident Detection & Emergency Alert System
+ 🔹 Shesafe - IoT based women safety device
+ 🔹 Virtual Steering Wheel using OpenCV
 
 ---
 
