@@ -25,12 +25,16 @@ MongoDB • MySQL • Supabase
 🛠️ Tools : 
 Git • GitHub • Postman • AntiGravity • VS Code
 ---
+```
  📂 Projects
- -🔹 Kowledge Decay Tracker 
- -🔹 Global Crisis Detection System
- -🔹 Alerto - IoT Accident Detection & Emergency Alert System
- -🔹 Shesafe - IoT based women safety device
- -🔹 Virtual Steering Wheel using OpenCV
+ 🔹 WiseCare - Smart Elderly Independence and Safety Platform
+ 🔹 Kowledge Decay Tracker 
+ 🔹 Global Crisis Detection System
+ 🔹 Alerto - IoT Accident Detection & Emergency Alert System
+ 🔹 Shesafe - IoT based women safety device
+ 🔹 Virtual Steering Wheel using OpenCV
+  
+```
 ---
 
 ## 🌐 Connect with me
