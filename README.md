@@ -20,7 +20,7 @@ HTML • CSS • JavaScript • React
 Node.js • REST APIs
 
 🗄️ Database : 
-MongoDB • MySQL
+MongoDB • MySQL • Supabase
 
 🛠️ Tools : 
 Git • GitHub • Postman • AntiGravity • VS Code
